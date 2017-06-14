@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-name             'kafka Test'
+name             'kafka'
 maintainer       'Mathias'
 maintainer_email 'mths@sdrbrg.se'
 license          'Apache 2.0'
